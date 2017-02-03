@@ -1,0 +1,16 @@
+{
+  "name": "eslint-config-upsilon",
+  "version": "0.1.0",
+  "description": "Eslint config",
+  "main": "index.js",
+  "repository": "upsilon-it/eslint-config-upsilon",
+  "author": "Timofey Dergachev <t@exeto.me> (https://exeto.me/)",
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ],
+  "peerDependencies": {
+    "eslint": "^3.14.1",
+    "eslint-plugin-upsilon": "upsilon-it/eslint-plugin-upsilon#1049aa8b3b048ed3eadadda2517b920fe9c18088"
+  }
+}
