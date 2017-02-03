@@ -18,7 +18,6 @@ module.exports = {
   rules: {
     'upsilon/prototype-extentions': 'error',
 
-    'prototype-extentions': 'error',
     'accessor-pairs': 'error',
     'array-bracket-spacing': 'off',
     'array-callback-return': 'off',
