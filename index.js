@@ -43,7 +43,7 @@ module.exports = {
     'eol-last': 'off',
     'func-names': 'off',
     'func-style': 'off',
-    'generator-star-spacing': ['error', { before: false }],
+    'generator-star-spacing': ['error', { before: false, after: true }],
     'global-require': 'error',
     'guard-for-in': 'off',
     'handle-callback-err': 'off',
