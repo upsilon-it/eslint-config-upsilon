@@ -30,7 +30,7 @@ module.exports = {
     'callback-return': 'off',
     'camelcase': 'off',
     'comma-dangle': ['error', 'always-multiline'],
-    'comma-spacing': 'off',
+    'comma-spacing': ['error', { before: false, after: true }],
     'comma-style': ['error', 'last'],
     'complexity': 'error',
     'computed-property-spacing': ['error', 'never'],
