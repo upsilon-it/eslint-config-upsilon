@@ -1,6 +1,6 @@
 {
-  "name": "eslint-config-upsilon",
-  "version": "0.2.0",
+  "name": "@upsilon/eslint-config",
+  "version": "0.3.0",
   "description": "Eslint config",
   "main": "index.js",
   "repository": "upsilon-it/eslint-config-upsilon",
