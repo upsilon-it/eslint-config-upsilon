@@ -7,7 +7,8 @@
   "author": "Timofey Dergachev <t@exeto.me> (https://exeto.me/)",
   "license": "MIT",
   "files": [
-    "index.js"
+    "index.js",
+    "base.js"
   ],
   "peerDependencies": {
     "eslint": "^3.14.1"
