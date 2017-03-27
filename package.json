@@ -11,5 +11,8 @@
   ],
   "peerDependencies": {
     "eslint": "^3.14.1"
+  },
+  "dependencies": {
+    "lodash.merge": "^4.6.0"
   }
 }
