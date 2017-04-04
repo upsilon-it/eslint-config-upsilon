@@ -1,13 +1,11 @@
 'use strict';
 
-const merge = require('lodash.merge');
-const base = require('./base');
-
-module.exports = merge(base, {
+module.exports = {
+  extends: require.resolve('./base'),
   plugins: [
     'upsilon',
   ],
   rules: {
     'upsilon/prototype-extentions': 'error',
   },
-});
+}
