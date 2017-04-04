@@ -35,7 +35,7 @@ module.exports = {
     'default-case': 'error',
     'dot-location': ['error', 'property'],
     'dot-notation': ['error', { allowKeywords: true }],
-    'eol-last': 'off',
+    'eol-last': ['error', 'always'],
     'func-names': 'off',
     'func-style': 'off',
     'generator-star-spacing': ['error', { before: false, after: true }],
