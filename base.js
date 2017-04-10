@@ -161,7 +161,7 @@ module.exports = {
     'one-var': ['error', 'never'],
     'operator-assignment': 'off',
     'operator-linebreak': 'off',
-    'padded-blocks': 'off',
+    'padded-blocks': ['error', 'never'],
     'prefer-arrow-callback': 'off',
     'prefer-const': 'off',
     'prefer-reflect': 'off',
