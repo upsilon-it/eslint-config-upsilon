@@ -3,9 +3,9 @@
 module.exports = {
   extends: require.resolve('./base'),
   plugins: [
-    'upsilon',
+    '@upsilon/ember',
   ],
   rules: {
-    'upsilon/prototype-extentions': 'error',
+    '@upsilon/ember/prototype-extentions': 'error',
   },
 }
