@@ -12,6 +12,6 @@
   ],
   "peerDependencies": {
     "@upsilon/eslint-plugin-ember": "^0.1.0",
-    "eslint": "^3.14.1"
+    "eslint": "^4.10.0"
   }
 }
